@@ -14,6 +14,7 @@
 		269FEFF9228D3A9A00344C25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 269FEFF7228D3A9A00344C25 /* LaunchScreen.storyboard */; };
 		269FF004228D3A9A00344C25 /* testLocalNotificationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269FF003228D3A9A00344C25 /* testLocalNotificationTests.swift */; };
 		269FF00F228D3A9A00344C25 /* testLocalNotificationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269FF00E228D3A9A00344C25 /* testLocalNotificationUITests.swift */; };
+		269FF01D228D41E100344C25 /* capoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 269FF01C228D41E100344C25 /* capoo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		269FF00A228D3A9A00344C25 /* testLocalNotificationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testLocalNotificationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		269FF00E228D3A9A00344C25 /* testLocalNotificationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testLocalNotificationUITests.swift; sourceTree = "<group>"; };
 		269FF010228D3A9A00344C25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		269FF01C228D41E100344C25 /* capoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = capoo.jpg; path = ../../../../capoo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		269FEFED228D3A9900344C25 /* testLocalNotification */ = {
 			isa = PBXGroup;
 			children = (
+				269FF01C228D41E100344C25 /* capoo.jpg */,
 				269FEFEE228D3A9900344C25 /* AppDelegate.swift */,
 				269FEFF0228D3A9900344C25 /* ViewController.swift */,
 				269FEFF2228D3A9900344C25 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				269FEFF9228D3A9A00344C25 /* LaunchScreen.storyboard in Resources */,
 				269FEFF6228D3A9A00344C25 /* Assets.xcassets in Resources */,
+				269FF01D228D41E100344C25 /* capoo.jpg in Resources */,
 				269FEFF4228D3A9900344C25 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
